@@ -15,15 +15,6 @@ and be able to react to other user thougths.
 ```
 DEMO: 
 
-
-
-https://user-images.githubusercontent.com/88734760/159838577-f3c386c9-9996-48c5-a100-9f63340cd62f.mp4
-
-
-
-
-
-
 ## User Story
   
 ```
